@@ -12,15 +12,14 @@ The user interface of Lj’s Burger is meticulously designed with simplicity and
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
    <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
       <div style="margin-right: 20px;">
-         <img src="1.png" width="20"></img> <img src="22222
+         <img src="https://github.com/LuisBulatao/SSS/blob/856b2a28f7480e0e03ff049aa49aa8280e16c5fb/1.png" width="70%"></img> <img src="https://github.com/LuisBulatao/SSS/blob/a210f46299a9a93d7abd79e34f39ac0fa6e7d230/22222222.png" width="70%"></img> 
       </div>
    </div>
 </div>
 
-
-
 ### Order Management
 The order management feature of Lj’s Burger enables seamless tracking of orders from placement to check out. Orders are systematically organized by number for efficient prioritization, and customers can make quick modifications as needed. Real-time updates ensure customers are promptly informed of any changes, facilitating a smooth dining experience.
+
 
 ### Reporting
 The reporting feature of Lj’s Burger offers valuable insights into the restaurant's performance. It can generate comprehensive reports covering daily, weekly, monthly, and yearly sales, as well as inventory management and order history. These reports serve as a crucial tool for informing business decisions, pinpointing areas for improvement, and optimizing operations to maximize efficiency and profitability.
