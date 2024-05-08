@@ -59,7 +59,8 @@ The diagram shows the different parts needed to run an online store or system fo
 ### Priority Queue
 
 
-### Project Members:
+
+# Project Members:
 - Gonzales, John Victor H.
 - Ramos, Arvyx M.
 - Bulatao, Luis Joshua D. 
