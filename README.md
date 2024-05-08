@@ -61,7 +61,6 @@ The diagram shows the different parts needed to run an online store or system fo
 ### MergeSort
 
 ### Project Members
-- Gonzels, John Victor 
 
 
 
