@@ -12,7 +12,7 @@ The user interface of Lj’s Burger is meticulously designed with simplicity and
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
    <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
       <div style="margin-right: 20px;">
-         <img src="https://github.com/Retchizu/Academeet/assets/116050858/8968f34f-4dbc-41f4-a13f-5586f54e68a5" width="30%"></img> <img src="https://github.com/Retchizu/Academeet/assets/116050858/18490050-f139-4316-8279-4318f2fe0a01" width="30%"></img> <img src="https://github.com/Retchizu/Academeet/assets/116050858/71fbf831-1f93-4cad-8553-949b0c05da21" width="30%"></img> 
+         <img src="1.png" width="20"></img> <img src="22222
       </div>
    </div>
 </div>
