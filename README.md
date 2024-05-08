@@ -6,13 +6,21 @@ Lj’s Burger, a Request Order System, a user-friendly web application designed 
 ### Menu Management
 In these features, users can effortlessly add, edit, and remove burger items from the cart with just a few clicks. The intuitive menu management system allows for quick updates to reflect changes in ingredients, pricing, or discount, ensuring that customers always have access to the latest offerings at Lj’s Burger.
 
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 30px;">
+         <img src="https://github.com/LuisBulatao/SSS/blob/856b2a28f7480e0e03ff049aa49aa8280e16c5fb/1.png" width="70%"></img> <img src="https://github.com/LuisBulatao/SSS/blob/a210f46299a9a93d7abd79e34f39ac0fa6e7d230/22222222.png" width="70%"></img> 
+      </div>
+   </div>
+</div>
+
 ### User Interface
 The user interface of Lj’s Burger is meticulously designed with simplicity and efficiency in mind. It can effortlessly navigate the system, access key features, and manage orders with just a few clicks. The intuitive and user-friendly interface streamlines the order-taking process, minimizing training time and ensuring smooth operation even during the busiest periods of service. With clear visual cues and logical layout, the interface enhances staff productivity and promotes seamless interaction with the system, ultimately delivering a superior dining experience for customers
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
    <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
       <div style="margin-right: 20px;">
-         <img src="https://github.com/LuisBulatao/SSS/blob/856b2a28f7480e0e03ff049aa49aa8280e16c5fb/1.png" width="70%"></img> <img src="https://github.com/LuisBulatao/SSS/blob/a210f46299a9a93d7abd79e34f39ac0fa6e7d230/22222222.png" width="70%"></img> 
+         <img src="" width="70%"></img> <img src="" width="70%"></img> 
       </div>
    </div>
 </div>
