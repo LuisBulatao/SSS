@@ -15,8 +15,15 @@ In these features, users can effortlessly add, edit, and remove burger items fro
 </div>
 
 ### User Interface
-The user interface of Lj’s Burger is meticulously designed with simplicity and efficiency in mind. It can effortlessly navigate the system, access key features, and manage orders with just a few clicks. The intuitive and user-friendly interface streamlines the order-taking process, minimizing training time and ensuring smooth operation even during the busiest periods of service. With clear visual cues and logical layout, the interface enhances staff productivity and promotes seamless interaction with the system, ultimately delivering a superior dining experience for customers
+The user interface of Lj’s Burger is meticulously designed with simplicity and efficiency in mind. It effortlessly navigates the system, accesses key features, and manages history with just a few clicks. The intuitive and user-friendly interface minimizes training time and ensures smooth operation even during the busiest periods of service. With clear visual cues and a logical layout, the interface enhances staff productivity and promotes seamless interaction with the system, ultimately delivering a superior dining experience for customers.
 
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 20px;">
+         <img src="" width="70%"></img>
+      </div>
+   </div>
+</div>
 
 ### Order Management
 The order management feature of Lj’s Burger enables seamless tracking of orders from placement to check out. Orders are systematically organized by number for efficient prioritization, and customers can make quick modifications as needed. Real-time updates ensure customers are promptly informed of any changes, facilitating a smooth dining experience.
