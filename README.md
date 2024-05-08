@@ -54,7 +54,7 @@ The reporting feature of Lj’s Burger offers valuable insights into the restaur
 
 The diagram shows the different parts needed to run an online store or system for managing inventory. It includes sections for tracking user accounts and login sessions, processing customer orders and payments, and keeping records of products, ingredients, and stock levels. The various boxes represent the different types of information that need to be stored, like user details, order contents, product descriptions, and available inventory. The connections between the boxes show how the different pieces of information relate to each other within the system.
 
-## Algorith
+## Algorithm
 
 ### Priority Queue
 
