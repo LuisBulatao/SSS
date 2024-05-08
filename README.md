@@ -26,7 +26,7 @@ The user interface of Lj’s Burger is meticulously designed with simplicity and
 </div>
 
 ### Order Management
-The order management feature of Lj’s Burger enables seamless tracking of orders from placement to check out. Orders are systematically organized by number for efficient prioritization, and customers can make quick modifications as needed. Real-time updates ensure customers are promptly informed of any changes, facilitating a smooth dining experience.
+The order management feature of Lj’s Burger enables seamless tracking of orders from placement to get order. Orders are systematically organized by number for efficient prioritization, and customers can make quick modifications as needed. Real-time updates ensure customers are promptly informed of any changes, facilitating a smooth dining experience.
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
    <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
